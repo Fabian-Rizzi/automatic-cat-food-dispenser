@@ -13,7 +13,7 @@
 - Big sealed container that keeps food fresh
 - Wired or battery operated.
 
-###### Spanish:
+###### Español:
 - Tamaño de porcion facilmente configurable
 - Ilimitadas porciones por dia
 - Aviso sonoro de funcionamiento
